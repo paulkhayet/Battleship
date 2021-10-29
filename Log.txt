@@ -1,0 +1,6 @@
+Fri Oct 29 03:09:31 2021
+The player fired at: B3
+
+Fri Oct 29 03:09:31 2021
+The bot fired at: D7
+
